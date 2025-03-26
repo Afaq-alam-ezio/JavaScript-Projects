@@ -20,15 +20,19 @@ html {
   
   #grey {
     background: grey;
+    border-radius: 5px;
   }
   
   #purple {
     background: purple;
+    border-radius: 5px;
   }
   #blue {
     background: blue;
+    border-radius: 5px;
   }
   #yellow {
     background: yellow;
+    border-radius: 5px;
   }
   
