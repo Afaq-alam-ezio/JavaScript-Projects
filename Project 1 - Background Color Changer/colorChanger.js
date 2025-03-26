@@ -14,7 +14,7 @@ buttons.forEach((n) => {
                     body.style.backgroundColor = e.target.id;
                     break;
                 
-                case "white":
+                case "purple":
                     body.style.backgroundColor = e.target.id;
                     break;
 
