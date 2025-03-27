@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;700&display=swap');
+
+body {
+    font-family: 'Google Sans', sans-serif;
+    background-image: url('back.png');
+    background-size: 100%; 
+    background-repeat: no-repeat;
+    /* background-position: center; */
+}
+
+html {
+    margin: 0;
+  }
+  
+  span {
+    display: block;
+  }
+  .canvas {
+    color: white;
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+  }
+  
+  .button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+  }
+  
+  #blue {
+    background: #023683;
+    border-radius: 5px;
+  }
+  
+  #red {
+    background: #EA4335;
+    border-radius: 5px;
+  }
+  #yellow {
+    background: #FBBC05;
+    border-radius: 5px;
+  }
+  #green {
+    background: #34A853;
+    border-radius: 5px;
+  }
+  
