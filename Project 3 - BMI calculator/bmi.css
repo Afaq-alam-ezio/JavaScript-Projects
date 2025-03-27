@@ -1,0 +1,60 @@
+body, html {
+    font-family: 'Poppins', sans-serif; /* Clean and modern */
+    color: #4a0d67; /* Dark purple for contrast */
+    background-image: url('bmi4.jpg');
+    background-repeat:inherit;
+    height: 100%;
+    margin: 0;
+    display: grid;
+    place-items: center; /* Centers both horizontally & vertically */
+}
+
+.container {
+    width: 400px;
+    padding: 20px;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+  #height,
+  #weight {
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+  }
+  
+  #weight-guide {
+    margin-left: 75px;
+    margin-top: 25px;
+  }
+  
+  #results {
+    font-size: 30px;
+    margin-left: 90px;
+    margin-top: 20px;
+    padding: auto;
+    color: rgb(5, 0, 5);
+  }
+  
+  button {
+    width: 150px;
+    height: 35px;
+    margin-left: 90px;
+    margin-top: 25px;
+    background-color: #fff;
+    padding: auto ;
+    border-radius: 8px;
+    color: #212121;
+    text-decoration: none;
+    border: 2px solid #212121;
+  
+    font-size: 25px;
+  }
+  
+  h1 {
+    padding-left: 15px;
+    padding-top: 25px;
+    
+  }
+  
