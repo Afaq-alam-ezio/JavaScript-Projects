@@ -1,19 +1,16 @@
-Color Switcher
+# 🚀 JavaScript Projects by Afaq
 
-This project allows users to change the background color of a webpage by clicking on different buttons.
+Welcome to my collection of fun and functional **JavaScript mini-projects**!  
+Each project reflects my learning journey, creativity, and hands-on exploration of core web development concepts. 💻✨
 
-📌 Features
+## 📂 What’s Inside?
+A mix of beginner to intermediate-level projects using:
+- ✅ HTML
+- ✅ CSS
+- ✅ Vanilla JavaScript
 
-Click a button to change the background color.
+From background changers to interactive tools, each project is built with clean code and a passion to learn and grow. 🛠️
 
-Uses JavaScript event listeners to detect button clicks.
+---
 
-Utilizes switch statements to assign colors dynamically.
-
-🛠️ Technologies Used
-
-HTML
-
-CSS
-
-JavaScript
+🎯 **Stay tuned — more awesome stuff coming soon!**  
